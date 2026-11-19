@@ -1,0 +1,12 @@
+# Downloaded and generated data (recreated by the scripts)
+data/
+outputs/
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS
+.DS_Store
